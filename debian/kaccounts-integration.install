@@ -1,0 +1,6 @@
+usr/lib/*/qt5/plugins/kaccounts/
+usr/lib/*/qt5/plugins/kcms/kcm_kaccounts.so
+usr/lib/*/qt5/plugins/kf5/kded/kded_accounts.so
+usr/share/kpackage/
+usr/share/kservices5/
+usr/share/locale/
